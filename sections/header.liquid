@@ -353,6 +353,7 @@
               alt="{{ section.settings.logo.alt | default: shop.name | escape }}"
             >
           {%- else -%}
+            <span style="font-weight: bold;" class="h2">esto se muestra cuando no hay logo</span>
             <span class="h2">{{ shop.name }}</span>
           {%- endif -%}
         </a>

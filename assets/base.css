@@ -2310,7 +2310,7 @@ input[type="checkbox"] {
   .header__heading,
   .header__heading-link {
     text-align: center;
-    background-color: red;
+    background-color: rgb(255, 0, 238);
   }
 }
 
