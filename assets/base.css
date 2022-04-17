@@ -2283,8 +2283,6 @@ input[type="checkbox"] {
 .header__heading-link {
   grid-area: heading;
   justify-self: center;
-      background-color: blue;
-
 }
 
 .header__heading-link {
@@ -2312,7 +2310,7 @@ input[type="checkbox"] {
   .header__heading,
   .header__heading-link {
     text-align: center;
-    background-color: red;
+    background-color: rgb(255, 0, 238);
   }
 }
 
